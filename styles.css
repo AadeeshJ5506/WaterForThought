@@ -1,0 +1,120 @@
+h1 {
+  color: #00BFFF;
+  font-style: italic;
+  font-size: 100px;
+  text-align: center;
+  padding-top: 100px;
+  font-family: "Lucida Handwriting";
+}
+
+h2{
+  color: #00BFFF;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 5px;
+  font-family: "Lucida Handwriting";
+
+
+}
+
+h3{
+  color:white;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 60px;
+
+
+}
+
+h4{
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 20px;
+  color:white;
+}
+
+h5{
+  color: #00BFFF;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5px;
+  font-family: "Lucida Handwriting";
+}
+
+#About{
+  background-color: #00BFFF;
+}
+
+#Sign {
+  padding-bottom: 100px;
+}
+
+
+
+.clouds {
+  margin-left: 20px;
+}
+
+.cloud1, .cloud3 {
+  padding-bottom: 150px;
+
+}
+
+.water1 {
+  width: 100%;
+  height: 300px;
+}
+
+.cloud6 {
+  padding-left: 30%;
+}
+
+.cloud7 {
+  margin-left: 100px;
+}
+.cloud2 {
+  padding-top: 50px;
+}
+
+.cloud4 {
+  margin-left: 100px;
+  padding-bottom: 150px;
+}
+
+.Sign {
+  font-size: 60px;
+  padding-bottom: 100px;
+}
+
+.Sign2 {
+  padding-bottom: 50px;
+}
+
+p {
+  color: #00BFFF;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 5px;
+  
+
+}
+
+.button {
+  background-color: #00BFFF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.SignMe {
+  text-align: center;
+}
